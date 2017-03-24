@@ -5,6 +5,9 @@
 #Project Description
 What you have been waiting for. Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.
 
+# Documentation
+https://github.com/GregFinzer/Compare-Net-Objects/wiki/Documentation
+
 #Compatibility
 Compatible with .NET Framework 3.5 and higher. Portable Class Library version works with .NET 4.0+, Silverlight 5+, Windows Phone 8+, Windows RT 8+, Xamarin iOS, and Xamarin Droid.  .NET Core too.
 
